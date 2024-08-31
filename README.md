@@ -1,6 +1,6 @@
 # Agri-2.0
 
-## Overview
+## Overview of the website 
 
 Agri-2.0 is an integrated digital platform designed to address the key challenges faced by farmers today. By leveraging advanced technologies such as AI, machine learning, and data analytics, Agri-2.0 provides farmers with tools to make informed decisions, optimize farming practices, and ultimately increase productivity and profitability.
 
