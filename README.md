@@ -7,12 +7,12 @@ Agri-2.0 is an integrated digital platform designed to address the key challenge
 ## Youtube Video Link
 https://youtu.be/g81cOqYadBA
 
-## Features
-
+## Homepage
+![Homepage](imgs/Screenshot_20240810_060551.png)
 ## Features
 
 - **Crop Disease Detection**
-  ![Crop Disease Detection](images/disease-detection.png)
+  ![Crop Disease Detection](imgs/Screenshot_20240810_060335.png)
   Uses CNN to identify six crop diseases from uploaded images, enabling early intervention to reduce losses.
 
 - **Crop Yield Prediction**
@@ -20,7 +20,7 @@ https://youtu.be/g81cOqYadBA
   Employs a Random Forest model with 83% accuracy to forecast yields, aiding in resource planning and management.
 
 - **Soil Analysis**
-  ![Soil Analysis](images/soil-analysis.png)
+  ![Soil Analysis](imgs/Screenshot_20240810_060408.png)
   Utilizes a Random Forest model with 91% accuracy for detailed soil insights, offering crop and fertilization recommendations.
 
 - **Price Forecasting**
@@ -28,7 +28,7 @@ https://youtu.be/g81cOqYadBA
   Fine-tuned with Gemini’s Min-Max and Modal Class methods, this feature predicts market prices to help farmers sell at optimal times.
 
 - **Fertilizer Calculation**
-  ![Fertilizer Calculation](images/fertilizer-calculation.png)
+  ![Fertilizer Calculation](imgs/Screenshot_20240810_060421.png)
   Calculates optimal fertilizer use based on NPK ratios and crop requirements, promoting cost-effective nutrient management.
 
 - **Crop Rotation Planning**
@@ -44,9 +44,10 @@ https://youtu.be/g81cOqYadBA
   Provides financial guidance and information on relevant government schemes to support farmer decisions.
 
 - **Weather Forecasting and Disaster Management**
-  ![Weather Forecasting](images/weather-forecasting.png)
+  ![Weather Forecasting](imgs/Screenshot_20240810_060441.png)
   Delivers 7-day weather updates and alerts to help farmers plan activities and mitigate risks.
 
+## Flowchart
 
 ## Installation
 
