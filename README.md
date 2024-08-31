@@ -16,7 +16,7 @@ https://youtu.be/g81cOqYadBA
   Uses CNN to identify six crop diseases from uploaded images, enabling early intervention to reduce losses.
 
 - **Crop Yield Prediction**
-  ![Crop Yield Prediction](images/yield-prediction.png)
+  ![Crop Yield Prediction](imgs/Screenshot_20240810_060255.png)
   Employs a Random Forest model with 83% accuracy to forecast yields, aiding in resource planning and management.
 
 - **Soil Analysis**
