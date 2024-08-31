@@ -8,7 +8,7 @@ Agri-2.0 is an integrated digital platform designed to address the key challenge
 https://youtu.be/g81cOqYadBA
 
 ## Homepage
-![Homepage](imgs/Screenshot_20240810_060551.png)
+![Homepage](imgs/Screenshot_20240831_083034.png)
 ## Features
 
 - **Crop Disease Detection**
@@ -16,7 +16,7 @@ https://youtu.be/g81cOqYadBA
   Uses CNN to identify six crop diseases from uploaded images, enabling early intervention to reduce losses.
 
 - **Crop Yield Prediction**
-  ![Crop Yield Prediction](imgs/Screenshot_20240810_060255.png)
+  ![Crop Yield Prediction](imgs/Screenshot_20240831_083309.png)
   Employs a Random Forest model with 83% accuracy to forecast yields, aiding in resource planning and management.
 
 - **Soil Analysis**
@@ -24,7 +24,7 @@ https://youtu.be/g81cOqYadBA
   Utilizes a Random Forest model with 91% accuracy for detailed soil insights, offering crop and fertilization recommendations.
 
 - **Price Forecasting**
-  ![Price Forecasting](images/price-forecasting.png)
+  ![Price Forecasting](imgs/Screenshot_20240831_083553.png)
   Fine-tuned with Gemini’s Min-Max and Modal Class methods, this feature predicts market prices to help farmers sell at optimal times.
 
 - **Fertilizer Calculation**
@@ -32,19 +32,19 @@ https://youtu.be/g81cOqYadBA
   Calculates optimal fertilizer use based on NPK ratios and crop requirements, promoting cost-effective nutrient management.
 
 - **Crop Rotation Planning**
-  ![Crop Rotation Planning](images/crop-rotation.png)
+  ![Crop Rotation Planning](imgs/Screenshot_20240831_083629.png)
   Uses a KNN model (85% accuracy) to suggest optimal crop sequences, maintaining soil health and productivity.
 
 - **E-Commerce Integration**
-  ![E-Commerce Integration](images/ecommerce.png)
+  ![E-Commerce Integration](imgs/Screenshot_20240831_083717.png)
   Connects farmers directly with buyers, removing intermediaries to ensure fair pricing and better market access.
 
 - **Chatbot for Financial Advice and Government Schemes**
-  ![Chatbot](images/chatbot.png)
+  ![Chatbot](imgs/Screenshot_20240831_083822.png)
   Provides financial guidance and information on relevant government schemes to support farmer decisions.
 
 - **Weather Forecasting and Disaster Management**
-  ![Weather Forecasting](imgs/Screenshot_20240810_060441.png)
+  ![Weather Forecasting](imgs/Screenshot_20240831_083651.png)
   Delivers 7-day weather updates and alerts to help farmers plan activities and mitigate risks.
 
 ## Flowchart
