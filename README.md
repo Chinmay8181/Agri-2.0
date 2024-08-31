@@ -19,16 +19,14 @@ https://youtu.be/g81cOqYadBA
   ![Crop Yield Prediction](imgs/Screenshot_20240831_083309.png)
   Employs a Random Forest model with 83% accuracy to forecast yields, aiding in resource planning and management.
 
-- **Soil Analysis**
-  ![Soil Analysis](imgs/Screenshot_20240810_060408.png)
-  Utilizes a Random Forest model with 91% accuracy for detailed soil insights, offering crop and fertilization recommendations.
-
 - **Price Forecasting**
   ![Price Forecasting](imgs/Screenshot_20240831_083553.png)
   Fine-tuned with Gemini’s Min-Max and Modal Class methods, this feature predicts market prices to help farmers sell at optimal times.
+  
+- **Soil Analysis**
+  Utilizes a Random Forest model with 91% accuracy for detailed soil insights, offering crop and fertilization recommendations.
 
 - **Fertilizer Calculation**
-  ![Fertilizer Calculation](imgs/Screenshot_20240810_060421.png)
   Calculates optimal fertilizer use based on NPK ratios and crop requirements, promoting cost-effective nutrient management.
 
 - **Crop Rotation Planning**
