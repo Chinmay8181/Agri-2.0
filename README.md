@@ -4,6 +4,9 @@
 
 Agri-2.0 is an integrated digital platform designed to address the key challenges faced by farmers today. By leveraging advanced technologies such as AI, machine learning, and data analytics, Agri-2.0 provides farmers with tools to make informed decisions, optimize farming practices, and ultimately increase productivity and profitability.
 
+## Youtube Video Link
+https://youtu.be/g81cOqYadBA
+
 ## Features
 
 - **Yield Prediction**: AI-driven predictions based on soil health, weather patterns, and historical data to help farmers plan their crops more effectively.
