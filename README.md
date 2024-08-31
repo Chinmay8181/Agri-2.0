@@ -9,15 +9,44 @@ https://youtu.be/g81cOqYadBA
 
 ## Features
 
-- **Crop Disease Detection**: Uses CNN to identify six crop diseases from uploaded images, enabling early intervention to reduce losses.
-- **Crop Yield Prediction**: Employs a Random Forest model with 83% accuracy to forecast yields, aiding in resource planning and management.
-- **Soil Analysis**: Utilizes a Random Forest model with 91% accuracy for detailed soil insights, offering crop and fertilization recommendations.
-- **Price Forecasting**: Fine-tuned with Gemini’s Min-Max and Modal Class methods, this feature predicts market prices to help farmers sell at optimal times.
-- **Fertilizer Calculation**: Calculates optimal fertilizer use based on NPK ratios and crop requirements, promoting cost-effective nutrient management.
-- **Crop Rotation Planning**: Uses a KNN model (85% accuracy) to suggest optimal crop sequences, maintaining soil health and productivity.
-- **E-Commerce Integration**: Connects farmers directly with buyers, removing intermediaries to ensure fair pricing and better market access.
-- **Chatbot for Financial Advice and Government Schemes**: Provides financial guidance and information on relevant government schemes to support farmer decisions.
-- **Weather Forecasting and Disaster Management**: Delivers 7-day weather updates and alerts to help farmers plan activities and mitigate risks.
+## Features
+
+- **Crop Disease Detection**
+  ![Crop Disease Detection](images/disease-detection.png)
+  Uses CNN to identify six crop diseases from uploaded images, enabling early intervention to reduce losses.
+
+- **Crop Yield Prediction**
+  ![Crop Yield Prediction](images/yield-prediction.png)
+  Employs a Random Forest model with 83% accuracy to forecast yields, aiding in resource planning and management.
+
+- **Soil Analysis**
+  ![Soil Analysis](images/soil-analysis.png)
+  Utilizes a Random Forest model with 91% accuracy for detailed soil insights, offering crop and fertilization recommendations.
+
+- **Price Forecasting**
+  ![Price Forecasting](images/price-forecasting.png)
+  Fine-tuned with Gemini’s Min-Max and Modal Class methods, this feature predicts market prices to help farmers sell at optimal times.
+
+- **Fertilizer Calculation**
+  ![Fertilizer Calculation](images/fertilizer-calculation.png)
+  Calculates optimal fertilizer use based on NPK ratios and crop requirements, promoting cost-effective nutrient management.
+
+- **Crop Rotation Planning**
+  ![Crop Rotation Planning](images/crop-rotation.png)
+  Uses a KNN model (85% accuracy) to suggest optimal crop sequences, maintaining soil health and productivity.
+
+- **E-Commerce Integration**
+  ![E-Commerce Integration](images/ecommerce.png)
+  Connects farmers directly with buyers, removing intermediaries to ensure fair pricing and better market access.
+
+- **Chatbot for Financial Advice and Government Schemes**
+  ![Chatbot](images/chatbot.png)
+  Provides financial guidance and information on relevant government schemes to support farmer decisions.
+
+- **Weather Forecasting and Disaster Management**
+  ![Weather Forecasting](images/weather-forecasting.png)
+  Delivers 7-day weather updates and alerts to help farmers plan activities and mitigate risks.
+
 
 ## Installation
 
