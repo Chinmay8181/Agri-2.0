@@ -7,15 +7,47 @@ Agri-2.0 is an integrated digital platform designed to address the key challenge
 ## Youtube Video Link
 https://youtu.be/g81cOqYadBA
 
+## Homepage
+![Homepage](imgs/Screenshot_20240810_060551.png)
 ## Features
 
-- **Yield Prediction**: AI-driven predictions based on soil health, weather patterns, and historical data to help farmers plan their crops more effectively.
-- **Disease Detection**: Early identification of crop diseases using image processing and machine learning, minimizing potential crop losses.
-- **Price Calculator**: Accurate market price forecasts based on historical data and global trends, allowing farmers to sell at the best possible prices.
-- **Soil Analysis**: Comprehensive assessment of soil quality, providing tailored crop recommendations and treatment plans.
-- **Weather Prediction**: Real-time weather forecasts that guide planting, irrigation, and harvesting schedules.
-- **E-Commerce Integration**: A platform that connects farmers directly with buyers, ensuring fair prices and reducing reliance on intermediaries.
-- **Chatbot**: AI-powered chatbot providing financial advice, including access to government schemes and insurance options.
+- **Crop Disease Detection**
+  ![Crop Disease Detection](imgs/Screenshot_20240810_060335.png)
+  Uses CNN to identify six crop diseases from uploaded images, enabling early intervention to reduce losses.
+
+- **Crop Yield Prediction**
+  ![Crop Yield Prediction](imgs/Screenshot_20240810_060255.png)
+  Employs a Random Forest model with 83% accuracy to forecast yields, aiding in resource planning and management.
+
+- **Soil Analysis**
+  ![Soil Analysis](imgs/Screenshot_20240810_060408.png)
+  Utilizes a Random Forest model with 91% accuracy for detailed soil insights, offering crop and fertilization recommendations.
+
+- **Price Forecasting**
+  ![Price Forecasting](images/price-forecasting.png)
+  Fine-tuned with Gemini’s Min-Max and Modal Class methods, this feature predicts market prices to help farmers sell at optimal times.
+
+- **Fertilizer Calculation**
+  ![Fertilizer Calculation](imgs/Screenshot_20240810_060421.png)
+  Calculates optimal fertilizer use based on NPK ratios and crop requirements, promoting cost-effective nutrient management.
+
+- **Crop Rotation Planning**
+  ![Crop Rotation Planning](images/crop-rotation.png)
+  Uses a KNN model (85% accuracy) to suggest optimal crop sequences, maintaining soil health and productivity.
+
+- **E-Commerce Integration**
+  ![E-Commerce Integration](images/ecommerce.png)
+  Connects farmers directly with buyers, removing intermediaries to ensure fair pricing and better market access.
+
+- **Chatbot for Financial Advice and Government Schemes**
+  ![Chatbot](images/chatbot.png)
+  Provides financial guidance and information on relevant government schemes to support farmer decisions.
+
+- **Weather Forecasting and Disaster Management**
+  ![Weather Forecasting](imgs/Screenshot_20240810_060441.png)
+  Delivers 7-day weather updates and alerts to help farmers plan activities and mitigate risks.
+
+## Flowchart
 
 ## Installation
 
