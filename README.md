@@ -46,7 +46,43 @@ https://youtu.be/g81cOqYadBA
   Delivers 7-day weather updates and alerts to help farmers plan activities and mitigate risks.
 
 ## Flowchart
-[![](https://mermaid.ink/img/pako:eNqVVttu4zYQ_ZWBFoFf6K1l2VlbBQokzmXTbLxBvGjROn2gJcpmI5EqSTlxLv_eGUp27Gydtg4Q6DI8c3jmzFBPQaJTEcTBwcETSCVdDE_QcgtRiFYMrRm3osWaB79wI_ksF7blgzKt3EQ--rhwUD5QnEKwb-LBjXSuDb34kGVZC17o7-DgVs0NLxfw7eTHWwX4S3Ju7YnIwEmXC8hknscfukkk-h1mndF34s1t-16mbhH3ygeWUIqY8BkxaVukEnfxzVvsTHBXmTW6OPwkut0Nehr1e5036N296J3v0VPhuMwb8JDPkmGyAQ8PeWfQ_4_gJOFbcFmUPHENeBYNk_CVufjUS6JkFzz6P8wRPMeqKsed1KpJMhC9Hk83SYaz_nB2-G6S5l3K7YIbw1cx9KH_L6kTrZRIfNp1piiK9grVea3QVpoIIsStkY-mR3MjzytuUskVRIcduDb6T8wBX5fCLKW4_yOO49pm7fZPz5diBWe1MewzHE-b653oxjjrHMd-4cjoEk6kFdgZcCJcs402DLsHcJQkleHJ6hlG4XQ0Hrepf1KYrKwTRdyEW7DyARLCSWscC5nRBRaEz4VlIBR2mVRzENzkK-B1Bq5SmAnnhIGVFHlqiWLtvn9g-BuFoAYilWuCg-E2wZNweoOQmPZMowYOrrB183i9xNZJoN4Ark-5457DPaqyEIYBlymRlApwva5MIqDMuVL4cB-1icZWOVI8X1lpiVJ_m9LpHkp-wSOqVH5m4HC6YFEYqMoZie5FwUqjlzUZryqxzIRxMkf_GWSX6AJ9nnqf75Xt2kjcAWVOuHUEhvwG2_zOwunRRU3Kwr10CzgXBc7MloUrqdpX_MGnxgCew4i8DlfCLXRqt2QtuLkTDiljNqRO6wv5SOlybckKBFHwh_VT3Fsm3V7WZ6_7HPE8qXK_yWc4D6dfS4eOymEr5GZXihhG-F-mwlgYX1-CoceegNdRCZHW6hbaC2IriwzInThNuSneqbQ34Y1uZst144tn-BxOL9tjNDbVdyzkfDHTmL2p9KSaYwegSjN67UlY8VclFGoFTqMuUhEDsGSkheC5W-xjcNoe0V7JlhfKiblplLnAzqzHj4Uz3ARt3hfzuFrhdYwiFXqJ-QqZpn5AUkfaypACGZemqZ3XCWcoec-_8VAt7AfUWOzVZcHdTONI1wbOUEqVSCzRUbok8xHiOeY2isYyTBI6dXE8_UzGa5f6XqCLoIEgT5HtaXpsgPgrkPWrkU6mN73azI_X-FQk0r7XFb_W3b7pi10tLz2x1MilUPB5VQrTznWCuG-X2S22BsvWRmvWNMu6McRmsNSThvQh6ihq-sqSBpE0Rs59fubnDTmTAR4KWDP3jiMvdo67Z_gSTrf2AjqDo4sfrr40_e35YpXtDmGihmIm9EJSFywlR96zumn1TOIjXpZezd3j9TsuONWf4SqcnqoF1QKLgwnTCof1UroVQxfiDT2-kfYOu_B604WTdRdiU1PkaeGdQa8aPzOMKUttfDhqCsc8uZtpJWiXdD_2nBqWyGTN7ktI9GAcTr8ZrizJb4FOVhws_njE1rtQeMRuldNpndfNYOuk1KhNN3yfAc-1u4lboU4h67KI9VifHbJPbMCGLOywMGRhF9779Nv6LOgOB53ZkOF4XooYF4nyWCBlQV8bAQuQAM6LFL9tnyj3beA_Ym-DGC9TkXHc0m1wq14wlFdOT1YqCWJnKsECo6v5Iogznlu8q0qsuziRHL1SrENKrn7Xevs2iJ-ChyDusGAVxGEUfhz0h91ev3M4GHSjwxcWPPr4zsdh_et1omE_6ve7LMAWcNpc1V_i_oP85W8kxv2R?type=png)](https://mermaid.live/edit#pako:eNqVVttu4zYQ_ZWBFoFf6K1l2VlbBQokzmXTbLxBvGjROn2gJcpmI5EqSTlxLv_eGUp27Gydtg4Q6DI8c3jmzFBPQaJTEcTBwcETSCVdDE_QcgtRiFYMrRm3osWaB79wI_ksF7blgzKt3EQ--rhwUD5QnEKwb-LBjXSuDb34kGVZC17o7-DgVs0NLxfw7eTHWwX4S3Ju7YnIwEmXC8hknscfukkk-h1mndF34s1t-16mbhH3ygeWUIqY8BkxaVukEnfxzVvsTHBXmTW6OPwkut0Nehr1e5036N296J3v0VPhuMwb8JDPkmGyAQ8PeWfQ_4_gJOFbcFmUPHENeBYNk_CVufjUS6JkFzz6P8wRPMeqKsed1KpJMhC9Hk83SYaz_nB2-G6S5l3K7YIbw1cx9KH_L6kTrZRIfNp1piiK9grVea3QVpoIIsStkY-mR3MjzytuUskVRIcduDb6T8wBX5fCLKW4_yOO49pm7fZPz5diBWe1MewzHE-b653oxjjrHMd-4cjoEk6kFdgZcCJcs402DLsHcJQkleHJ6hlG4XQ0Hrepf1KYrKwTRdyEW7DyARLCSWscC5nRBRaEz4VlIBR2mVRzENzkK-B1Bq5SmAnnhIGVFHlqiWLtvn9g-BuFoAYilWuCg-E2wZNweoOQmPZMowYOrrB183i9xNZJoN4Ark-5457DPaqyEIYBlymRlApwva5MIqDMuVL4cB-1icZWOVI8X1lpiVJ_m9LpHkp-wSOqVH5m4HC6YFEYqMoZie5FwUqjlzUZryqxzIRxMkf_GWSX6AJ9nnqf75Xt2kjcAWVOuHUEhvwG2_zOwunRRU3Kwr10CzgXBc7MloUrqdpX_MGnxgCew4i8DlfCLXRqt2QtuLkTDiljNqRO6wv5SOlybckKBFHwh_VT3Fsm3V7WZ6_7HPE8qXK_yWc4D6dfS4eOymEr5GZXihhG-F-mwlgYX1-CoceegNdRCZHW6hbaC2IriwzInThNuSneqbQ34Y1uZst144tn-BxOL9tjNDbVdyzkfDHTmL2p9KSaYwegSjN67UlY8VclFGoFTqMuUhEDsGSkheC5W-xjcNoe0V7JlhfKiblplLnAzqzHj4Uz3ARt3hfzuFrhdYwiFXqJ-QqZpn5AUkfaypACGZemqZ3XCWcoec-_8VAt7AfUWOzVZcHdTONI1wbOUEqVSCzRUbok8xHiOeY2isYyTBI6dXE8_UzGa5f6XqCLoIEgT5HtaXpsgPgrkPWrkU6mN73azI_X-FQk0r7XFb_W3b7pi10tLz2x1MilUPB5VQrTznWCuG-X2S22BsvWRmvWNMu6McRmsNSThvQh6ihq-sqSBpE0Rs59fubnDTmTAR4KWDP3jiMvdo67Z_gSTrf2AjqDo4sfrr40_e35YpXtDmGihmIm9EJSFywlR96zumn1TOIjXpZezd3j9TsuONWf4SqcnqoF1QKLgwnTCof1UroVQxfiDT2-kfYOu_B604WTdRdiU1PkaeGdQa8aPzOMKUttfDhqCsc8uZtpJWiXdD_2nBqWyGTN7ktI9GAcTr8ZrizJb4FOVhws_njE1rtQeMRuldNpndfNYOuk1KhNN3yfAc-1u4lboU4h67KI9VifHbJPbMCGLOywMGRhF9779Nv6LOgOB53ZkOF4XooYF4nyWCBlQV8bAQuQAM6LFL9tnyj3beA_Ym-DGC9TkXHc0m1wq14wlFdOT1YqCWJnKsECo6v5Iogznlu8q0qsuziRHL1SrENKrn7Xevs2iJ-ChyDusGAVxGEUfhz0h91ev3M4GHSjwxcWPPr4zsdh_et1omE_6ve7LMAWcNpc1V_i_oP85W8kxv2R)
+%%{ init: { 'theme': 'base', 'themeVariables': { 'fontSize': '18px', 'nodeTextColor': '#fff' } } }%%
+graph TD;
+    classDef title fill:#2c3e50,stroke:#2c3e50,stroke-width:4px,color:#fff,font-size:24px;
+    classDef feature fill:#e67e22,stroke:#d35400,stroke-width:2px,color:#fff,font-size:20px;
+    classDef detail fill:#1abc9c,stroke:#16a085,stroke-width:2px,color:#fff,font-size:18px;
+    classDef impact fill:#f39c12,stroke:#e74c3c,stroke-width:3px,color:#fff,font-size:20px;
+    classDef implementation fill:#8e44ad,stroke:#9b59b6,stroke-width:3px,color:#fff,stroke-dasharray: 5 5,font-size:20px;
+    classDef connection stroke:#333,stroke-width:2px,color:#000,stroke-dasharray: 3 3;
+
+    A[AgriGuardian 360 Project Overview]:::title -->|Key Features| B[Feature Overview]:::feature
+
+    B -->|Crop Disease Detection - 92% Accuracy| C1[CNN-based System: Detects six crop diseases from images, enabling early action and better yields]:::detail
+
+    B -->|Crop Yield Prediction - 89% Accuracy| D1[Random Forest Model: Predicts yield based on data and weather, aiding in resource planning]:::detail
+
+    B -->|Soil Analysis - 85% Accuracy| E1[Random Forest Model: Analyzes pH, texture, nutrients, providing crop and fertilizer recommendations]:::detail
+
+    B -->|Price Forecasting - 88% Accuracy| F1[AI Models with Gemini's Min-Max and Modal Class Methods: Predicts market prices, minimizing losses and maximizing profits]:::detail
+
+    B -->|Fertilizer Calculation| G1[Optimal Fertilizer Recommendations: Considers NPK ratio and crop needs, promoting sustainable farming]:::detail
+
+    B -->|Crop Rotation Planning| H1[K-Nearest Neighbors Model: Suggests best crop sequences to maintain soil health]:::detail
+
+    B -->|E-Commerce Integration| I1[Connects Farmers with Buyers: Removes middlemen, ensuring fair prices and improving farmers' income]:::detail
+
+    B -->|Chatbot for Financial Advice and Government Schemes| J1[AI-powered Chatbot: Provides financial advice and scheme info, aiding better financial decisions]:::detail
+
+    B -->|Weather Forecast Integration| K1[AI-driven Hyper-local Weather Forecasts: Provides real-time and predicted weather data for informed decisions on irrigation, planting, harvesting]:::detail
+
+    B -->|Implementation| L1[Integration of AI/ML Models: Processes real-time data, accessible via web and mobile apps]:::implementation
+
+    B -->|Impact| M1[Enhancing Productivity, Reducing Risks, Promoting Sustainability, Empowering Farmers, Supporting the Backbone of the Nation]:::impact
+
+    L1 --> N1[Transforms Agriculture in India: Provides tools and support to farmers]:::impact
+
+    linkStyle 0,1,2,3,4,5,6,7,8,9,10,11 stroke:#2c3e50,stroke-width:2px,color:#2980b9,stroke-dasharray: 5 5;
+
 
 ## Installation
 
