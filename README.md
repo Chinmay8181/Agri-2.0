@@ -1,4 +1,3 @@
-```markdown
 # Agri-2.0
 
 ## Overview
@@ -115,4 +114,3 @@ npm run dev
 
 This will start the development server and allow you to interact with the Agri-2.0 platform through the web interface.
 
-```
