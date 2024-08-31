@@ -12,11 +12,11 @@ https://youtu.be/g81cOqYadBA
 ## Features
 
 - **Crop Disease Detection**
-  ![Crop Disease Detection](imgs/Screenshot_20240810_060335.png)
+  ![Crop Disease Detection](imgs/Screenshot_20240831_083309.png)
   Uses CNN to identify six crop diseases from uploaded images, enabling early intervention to reduce losses.
 
 - **Crop Yield Prediction**
-  ![Crop Yield Prediction](imgs/Screenshot_20240831_083309.png)
+  ![Crop Yield Prediction](imgs/Screenshot_20240831_083208.png)
   Employs a Random Forest model with 83% accuracy to forecast yields, aiding in resource planning and management.
 
 - **Price Forecasting**
