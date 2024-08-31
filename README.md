@@ -46,14 +46,15 @@ https://youtu.be/g81cOqYadBA
   Delivers 7-day weather updates and alerts to help farmers plan activities and mitigate risks.
 
 ## Flowchart
-%%{ init: { 'theme': 'base', 'themeVariables': { 'fontSize': '18px', 'nodeTextColor': '#fff' } } }%%
+# AgriGuardian 360 Project Overview
+
+```mermaid
 graph TD;
     classDef title fill:#2c3e50,stroke:#2c3e50,stroke-width:4px,color:#fff,font-size:24px;
     classDef feature fill:#e67e22,stroke:#d35400,stroke-width:2px,color:#fff,font-size:20px;
     classDef detail fill:#1abc9c,stroke:#16a085,stroke-width:2px,color:#fff,font-size:18px;
     classDef impact fill:#f39c12,stroke:#e74c3c,stroke-width:3px,color:#fff,font-size:20px;
     classDef implementation fill:#8e44ad,stroke:#9b59b6,stroke-width:3px,color:#fff,stroke-dasharray: 5 5,font-size:20px;
-    classDef connection stroke:#333,stroke-width:2px,color:#000,stroke-dasharray: 3 3;
 
     A[AgriGuardian 360 Project Overview]:::title -->|Key Features| B[Feature Overview]:::feature
 
@@ -82,6 +83,7 @@ graph TD;
     L1 --> N1[Transforms Agriculture in India: Provides tools and support to farmers]:::impact
 
     linkStyle 0,1,2,3,4,5,6,7,8,9,10,11 stroke:#2c3e50,stroke-width:2px,color:#2980b9,stroke-dasharray: 5 5;
+```
 
 
 ## Installation
